@@ -10,3 +10,5 @@ This project aims to conduct an in-depth analysis of over 20,000 sales records f
 The focus is on delivering practical insights to refine business strategies and showcase the power of data-driven solutions.
 
 ---
+
+# **Executive Summary**
