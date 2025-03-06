@@ -9,6 +9,7 @@
   - [Revenue Analysis and Contribution by Product Categories](#revenue-analysis-and-contribution-by-product-categories)
   - [Insights into Top Customers and Their Lifetime Value](#insights-into-top-customers-and-their-lifetime-value)
   - [Analyzing Monthly Sales Trends to Identify Seasonal Patterns and Irregularities](#analyzing-monthly-sales-trends-to-identify-seasonal-patterns-and-irregularities)
+  - [Identifying the Most Profitable Products and Preventing Shortages Through Proactive Inventory Management](#identifying-the-most-profitable-products-and-preventing-shortages-through-proactive-inventory-management)
 
 ---
 
@@ -106,15 +107,34 @@ This project addresses the following critical questions:
 ![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Monthly%20Sales.png)
 
 ---
-
+## Identifying the Most Profitable Products and Preventing Shortages Through Proactive Inventory Management
 ### Analyzing Profit Margins to Identify the Most Profitable Products
+The following highlights the **top 20 most profitable products** based on a query analyzing profit margins.
+
+- The **Men's Blazer** tops the chart with a **95% profit margin**, representing the pinnacle of success in professional attire.
+
+- **Bose Soundbar 700** boasts a **95% profit margin**, cementing its position as a leader in the premium home audio segment.
+
+- **Dog Bandana**, a standout niche product, achieves a **95% profit margin**, surprising with its profitability in the pet accessories market.
+
+- The **Microsoft Surface Pro 6** secures a **95% profit margin**, a testament to its enduring demand among professionals and students.
+  
+- The **Sony WH-1000XM4 Noise-Canceling Headphones** impresses with a **95% profit margin**, illustrating its unmatched reputation in high-end audio technology.
 
 
 ![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Top%2020%20Most%20Profitable%20Products%20.png)
 
 
+### Inventory Stock Alerts: Monitoring Stock Levels to Prevent Shortages
+- **Pet Water Fountain** is critically low with only **1 unit remaining**, last restocked on **2022-08-01**, signaling an urgent need for replenishment in **Warehouse 1**.
 
-### Inventory Stock Alerts: Preventing Shortages through Proactive Management
+- The **Pet Blanket** shows a stock level of **7 units**, last restocked on **2022-10-30**, requiring moderate attention to avoid future stock-outs in **Warehouse 1**.
+
+- **Cat Food** has just **4 units remaining**, with the last restock dated **2023-07-25**, making it a priority for replenishment in **Warehouse 1**.
+
+- **Dog Training Collar** maintains a stock of **8 units**, last restocked on **2022-05-04**, warranting careful inventory monitoring in **Warehouse 1**.
+
+- **Remote Control Helicopter** is running low with **5 units**, last restocked on **2023-07-30**, indicating the need for timely restocking in **Warehouse 1**.
 
 
 ![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Inventory%20Stock%20Alert.png)
@@ -122,4 +142,21 @@ This project addresses the following critical questions:
 ---
 
 
+## Shipping Delays
+- **Ulysses Green's order (ID: 6035)**, placed on **2021-07-06**, was shipped via **FedEx** in **5 days**, making it one of the slower orders identified.
 
+- **Yvonne Turner's orders (IDs: 11560 and 11416)**, placed on **2022-11-08** and **2020-03-06**, took **4 days each** via **FedEx**, representing the shorter shipping times within the dataset.
+
+- **David Wilson's order (ID: 11768)**, placed on **2021-07-25**, required **5 days** for shipping via **FedEx**, aligning with other longer durations observed.
+
+- **Brian White's orders (IDs: 14299 and 16246)**, placed on **2022-04-03** and **2020-10-27**, both took **5 days** for shipping via **FedEx**, indicating consistency in shipping durations for his orders.
+
+- **Emily Clark's orders (IDs: 3017 and 4613)**, placed on **2022-07-20** and **2020-08-11**, were both shipped in **5 days**, maintaining a uniform delivery timeframe across different years.
+
+![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Shipping%20Delays.png)
+
+---
+
+## 
+
+![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Revenue%20By%20Shipping%20Providers.png)
