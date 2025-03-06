@@ -87,7 +87,7 @@ This project addresses the following critical questions:
 
 - Diverse Behavior: Customers like **Olivia Barnes**, while ranking lower in lifetime value (**$74,692.81**), demonstrate a steady number of **114 orders** with a balanced average order value of **$655.20**.
 
-![]()
+![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Customer%20Lifetime%20Value.png)
 
 ---
 
@@ -103,7 +103,7 @@ This project addresses the following critical questions:
 
 - **Seasonal Insights**: Q2 consistently performs better, while Q4 shows a consistent dip year-over-year. This provides opportunities for promotions or marketing strategies to mitigate declines in sales.
 
-![]()
+![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Monthly%20Sales.png)
 
 ---
 
