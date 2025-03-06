@@ -110,8 +110,14 @@ This project addresses the following critical questions:
 ### Analyzing Profit Margins to Identify the Most Profitable Products
 
 
+![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Top%2020%20Most%20Profitable%20Products%20.png)
+
+
 
 ### Inventory Stock Alerts: Preventing Shortages through Proactive Management
+
+
+![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Inventory%20Stock%20Alert.png)
 
 ---
 
