@@ -12,6 +12,7 @@
   - [Identifying the Most Profitable Products and Preventing Shortages Through Proactive Inventory Management](#identifying-the-most-profitable-products-and-preventing-shortages-through-proactive-inventory-management)
   - [Products with the Highest Return Rates](#products-with-the-highest-return-rates)
 - [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
 
 ---
 
@@ -172,3 +173,13 @@ The following highlights the **top 20 most profitable products** based on a quer
 
 
 ![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/blob/main/Files/Returned%20Products.png)
+
+---
+
+## Recommendations
+
+
+---
+
+## Assumptions and Caveats
+
