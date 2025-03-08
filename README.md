@@ -1,4 +1,4 @@
-# Amazon USA Business Analysis Project
+# Amazon USA Business Analysis SQL Project
 
 ## Table Of Content
 
@@ -177,9 +177,54 @@ The following highlights the **top 20 most profitable products** based on a quer
 ---
 
 ## Recommendations
+Based on the insights gathered through the analysis of the data, the following recommendations are proposed to address critical areas and drive improvements:
 
+### Optimize Shipping Provider Performance:
+
+- Prioritize partnerships with shipping providers that demonstrate high operational efficiency, such as those with shorter delivery times and higher order-handling capacity.
+- Conduct further evaluation to identify potential bottlenecks or inconsistencies (e.g., discrepancies in reported delivery times) and work collaboratively with providers to address them.
+
+---
+
+### Address High Return Rates for Specific Products:
+
+- Focus on products with consistently high return rates, such as the **Pet Travel Water Bottle** and **Cat Wand Toy**. Investigate customer feedback and quality assurance reports to identify common issues and implement improvements.
+- Develop targeted strategies for products with mid-range return rates, like the **Yoga Mat** and **Vegetable Peeler**, to reduce returns through better descriptions, product enhancements, or customer education.
+
+---
+### Enhance Inventory Management to Prevent Stockouts:
+
+- Monitor stock levels for high-demand products, leveraging real-time data alerts to avoid inventory shortages.
+- Use predictive analytics to forecast seasonal demand spikes and ensure sufficient inventory is available during peak periods.
+
+---
+
+### Maximize Profit Margins on High-Performing Products:
+
+- Invest in marketing and promotional efforts for products like the **Bose Soundbar**, which shows exceptional profit margins, to further enhance sales and profitability.
+- Consider bundling strategies for lower-performing items to increase their appeal and contribution to revenue.
+
+---
+
+### Leverage Customer Insights to Improve Satisfaction:
+
+- Analyze trends in customer behavior, such as order patterns and return reasons, to tailor products and services to meet their expectations.
+- Implement a feedback loop with actionable insights to continuously refine operations and enhance customer satisfaction.
 
 ---
 
 ## Assumptions and Caveats
+
+- **External Factors**: Factors such as seasonal demand fluctuations or external disruptions (e.g., holidays, supply chain issues) are not accounted for in this analysis. These factors could influence shipping delays and return rates.
+
+- **Return Reasons**: The analysis identifies products with the highest return rates but does not delve into specific reasons for returns. Additional customer feedback or reviews would be required to draw conclusions about the root causes.
+
+---
+- See the dataset that was used [Dataset](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/tree/main/Dataset)
+
+- Refer to the SQL query used to construct the schema [Amazon Schema Creation](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/blob/main/Exploration/Amazon%20Schema%20Creation.sql)
+
+- View the SQL query utilized for conducting exploratory data analysis
+
+
 
