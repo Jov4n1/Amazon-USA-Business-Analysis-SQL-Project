@@ -31,8 +31,7 @@ CREATE TABLE customers
 Customer_id	INT PRIMARY KEY,
 first_name VARCHAR(20),
 last_name VARCHAR(20),
-state VARCHAR(20),
-address VARCHAR(20) DEFAULT ('XXX')
+state VARCHAR(20)
 );
 
 -- Seller TABLE
