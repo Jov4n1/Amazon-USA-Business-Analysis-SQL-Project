@@ -10,6 +10,8 @@
   - [Insights into Top Customers and Their Lifetime Value](#insights-into-top-customers-and-their-lifetime-value)
   - [Analyzing Monthly Sales Trends to Identify Seasonal Patterns and Irregularities](#analyzing-monthly-sales-trends-to-identify-seasonal-patterns-and-irregularities)
   - [Identifying the Most Profitable Products and Preventing Shortages Through Proactive Inventory Management](#identifying-the-most-profitable-products-and-preventing-shortages-through-proactive-inventory-management)
+  - [Products with the Highest Return Rates](#products-with-the-highest-return-rates)
+- [Recommendations](#recommendations)
 
 ---
 
@@ -27,7 +29,7 @@ An ERD diagram is included to illustrate the database schema and table relations
 ---
 
 ## Problem Statement
-In today's highly competitive e-commerce landscape, businesses like Amazon USA face the challenge of managing and extracting insights from large volumes of transactional data. Key business areas, including sales performance, customer behavior, inventory management, and operational efficiency, require deeper exploration to identify growth opportunities and bottlenecks.
+In today's highly competitive e-commerce landscape, businesses like Amazon USA face the challenge of managing and extracting insights from large volumes of transactional data. Key business areas, including sales performance, customer behavior, morst returned products, inventory management, and operational efficiency, require deeper exploration to identify growth opportunities and bottlenecks.
 
 This project addresses the following critical questions:
 
@@ -41,7 +43,7 @@ This project addresses the following critical questions:
 
 5. What are the primary causes of shipping delays, and how do they impact customer satisfaction?
 
-6. How does the performance of shipping providers influence overall operational efficiency and profitability?
+6. Which products have the highest return rates, and what are the underlying reasons for these returns
 ---
 
 ## Insights and Deep-Dive
@@ -157,6 +159,16 @@ The following highlights the **top 20 most profitable products** based on a quer
 
 ---
 
-## 
+## Products with the Highest Return Rates
+- **Pet Travel Water Bottle** has a **100%** return rate (1 out of 1 unit returned), indicating it had the most returns relative to its sales.
 
-![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Revenue%20By%20Shipping%20Providers.png)
+- **Cat Wand Toy** and **Dog Toothpaste** both exhibit a **67% return rate**, with **2 out of 3 units** returned for each product.
+
+- **Yoga Mat** shows a **50% return rate**, with **3 out of 6 units** returned, ranking it among the higher-returned products.
+
+- **Canon EOS 77D Camera** has a **43% return rate**, with **3 out of 7 units** returned, reflecting a notable frequency of returns for the item.
+
+- **Vegetable Peeler** records a **40% return rate**, with **4 out of 10 units** returned, placing it among the products with elevated return rates.
+
+
+![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/blob/main/Files/Returned%20Products.png)
