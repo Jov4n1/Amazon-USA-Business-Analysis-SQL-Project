@@ -1,6 +1,6 @@
 -- Amazon Project 
 
--- Objective Create nine tables (category, customers, inventory, order_items, orders, payments, products, sellers and shipping) to import data into
+-- Objective: Create nine tables (category, customers, inventory, order_items, orders, payments, products, sellers and shipping) to import data into
 
 -- create schema
 
