@@ -224,7 +224,7 @@ Based on the insights gathered through the analysis of the data, the following r
 
 - Refer to the SQL query used to construct the schema [Amazon Schema Creation](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/blob/main/Exploration/Amazon%20Schema%20Creation.sql)
 
-- View the SQL query utilized for conducting exploratory data analysis
+- View the SQL query utilized for conducting exploratory data analysis [SQL Query](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/blob/main/Exploration/Amazon%20USA%20Business%20Analysis%20Project.sql)
 
 
 
