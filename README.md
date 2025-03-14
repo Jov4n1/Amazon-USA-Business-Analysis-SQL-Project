@@ -1,6 +1,6 @@
 # Amazon USA Business Analysis SQL Project
 
-## Table Of Content
+## Table of Content
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -29,8 +29,9 @@ An ERD diagram is included to illustrate the database schema and table relations
 
 ---
 
+[Back To Table Of Content](#table-of-content)
 ## Problem Statement
-In today's highly competitive e-commerce landscape, businesses like Amazon USA face the challenge of managing and extracting insights from large volumes of transactional data. Key business areas, including sales performance, customer behavior, morst returned products, inventory management, and operational efficiency, require deeper exploration to identify growth opportunities and bottlenecks.
+In today's highly competitive e-commerce landscape, businesses like Amazon USA face the challenge of managing and extracting insights from large volumes of transactional data. Key business areas, including sales performance, customer behavior, frequently returned products, inventory management, and operational efficiency, require deeper exploration to identify growth opportunities and bottlenecks.
 
 This project addresses the following critical questions:
 
@@ -58,7 +59,7 @@ This project addresses the following critical questions:
 
 - The **Dell Alienware Aurora** stands out as the top non-Apple product, contributing **$177,499.29** from **63 orders**.
 
-- The **Dell XPS 17** Laptop balances **$157,499.25** in revenue with **68 orders**, showcasing consistent demand in the premium laptop segment.
+- The **Dell XPS 17** laptop balances **$157,499.25** in revenue with **68 orders**, showcasing consistent demand in the premium laptop segment.
 
 
 ![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Top%2010%20Products.png) 
@@ -97,7 +98,7 @@ This project addresses the following critical questions:
 
 ### Analyzing Monthly Sales Trends to Identify Seasonal Patterns and Irregularities
 
-- **Consistent Peaks**: Notable increases in sales are observed in **March to May 2023**, with a peak in **May 2023** at **$341,232.79**, suggesting a potential seasonal demand in **Q2**.
+- **Consistent Peaks**: Notable increases in sales are observed from **March to May 2023**, with a peak in **May 2023** at **$341,232.79**, suggesting a potential seasonal demand in **Q2**.
 
 - **Dips During Holidays**: Sales significantly decline from **September 2023** onwards, with the **lowest** sales recorded in **December 2023 at $185,235.91**, possibly reflecting reduced consumer activity post-holidays.
 
@@ -122,7 +123,7 @@ The following highlights the **top 20 most profitable products** based on a quer
 
 - The **Microsoft Surface Pro 6** secures a **95% profit margin**, a testament to its enduring demand among professionals and students.
   
-- The **Sony WH-1000XM4 Noise-Canceling Headphones** impresses with a **95% profit margin**, illustrating its unmatched reputation in high-end audio technology.
+- The **Sony WH-1000XM4 Noise-Canceling Headphones** impress with a **95% profit margin**, illustrating their unmatched reputation in high-end audio technology.
 
 
 ![](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-Project/blob/main/Files/Top%2020%20Most%20Profitable%20Products%20.png)
@@ -219,7 +220,13 @@ Based on the insights gathered through the analysis of the data, the following r
 
 - **Return Reasons**: The analysis identifies products with the highest return rates but does not delve into specific reasons for returns. Additional customer feedback or reviews would be required to draw conclusions about the root causes.
 
+### Data Cleaning
+
+- I cleaned the dataset by: - **Removing duplicates**: Duplicates in the customer and order tables were identified and removed. - **Handling missing values**: Null values in critical fields (e.g., customer address, payment status) were either filled with default values or handled using appropriate methods.
+
 ---
+## SQL Queries
+
 - See the dataset that was used [Dataset](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/tree/main/Dataset)
 
 - Refer to the SQL query used to construct the schema [Amazon Schema Creation](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/blob/main/Exploration/Amazon%20Schema%20Creation.sql)
