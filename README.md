@@ -13,6 +13,7 @@
   - [Products with the Highest Return Rates](#products-with-the-highest-return-rates)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
+- [SQL Queries](#sql-queries)
 
 ---
 
@@ -48,6 +49,7 @@ This project addresses the following critical questions:
 6. Which products have the highest return rates, and what are the underlying reasons for these returns
 ---
 
+[Back To Table Of Content](#table-of-content)
 ## Insights and Deep-Dive
 
 ### Top-Selling Products and Their Performance Highlights
@@ -177,6 +179,7 @@ The following highlights the **top 20 most profitable products** based on a quer
 
 ---
 
+[Back To Table Of Content](#table-of-content)
 ## Recommendations
 Based on the insights gathered through the analysis of the data, the following recommendations are proposed to address critical areas and drive improvements:
 
@@ -214,6 +217,8 @@ Based on the insights gathered through the analysis of the data, the following r
 
 ---
 
+[Back To Table Of Content](#table-of-content)
+
 ## Assumptions and Caveats
 
 - **External Factors**: Factors such as seasonal demand fluctuations or external disruptions (e.g., holidays, supply chain issues) are not accounted for in this analysis. These factors could influence shipping delays and return rates.
@@ -225,6 +230,8 @@ Based on the insights gathered through the analysis of the data, the following r
 - I cleaned the dataset by: - **Removing duplicates**: Duplicates in the customer and order tables were identified and removed. - **Handling missing values**: Null values in critical fields (e.g., customer address, payment status) were either filled with default values or handled using appropriate methods.
 
 ---
+
+[Back To Table Of Content](#table-of-content)
 ## SQL Queries
 
 - See the dataset that was used [Dataset](https://github.com/Jov4n1/Amazon-USA-Business-Analysis-SQL-Project/tree/main/Dataset)
